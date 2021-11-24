@@ -10,5 +10,16 @@
 ## RES2CTR-GCN介绍
 整体结构
 本算法是基于CTR-GCN进行改进，采用多流同结构算法整体框架如下图所示：
+
 本模型采用三流形式类似于下列双流的形式
+
+## 双流算法流程图
 ![image](https://github.com/geckwen/SkateDetection/blob/main/multi_stream.png)
+
+## 单流算法流程图
+![image](https://github.com/geckwen/SkateDetection/blob/main/model.png)
+
+## RES2CTR-GCN模块
+![image](https://github.com/geckwen/SkateDetection/blob/main/RES2CTR-GCN.png)
+![image](https://github.com/geckwen/SkateDetection/blob/main/CTR-GC.png)
+![image](https://github.com/geckwen/SkateDetection/blob/main/TEMORAL_MODELING.png)
